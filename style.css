@@ -1,0 +1,80 @@
+body {
+    background-color: #E5E5E5;
+    color: #323031;
+}
+div
+{
+    border-radius: 5px;
+    }
+#header
+{
+    position: fixed;
+    z-index: 1;
+    height:40px;
+    width: 98%;
+    background-color: #FCA311;
+    margin-bottom: 10px
+    }
+
+#name {
+    float:left;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #14213D;
+}
+.right
+{
+    float: left;
+    margin-top: 50px;
+    padding-left:5px;
+    height: auto;
+    width: 99%;
+    }
+
+    
+
+h3
+{
+    text-decoration: underline;
+    color: #14213D;
+    }
+
+    table {
+        display: block;
+        font-family: sans-serif;
+        -webkit-font-smoothing: antialiased;
+        font-size: 115%;
+        overflow: auto;
+        width: auto; }
+        
+        tr {
+          background-color: #FCA311;
+          color: white;
+          font-weight: normal;
+          padding: 20px 30px;
+          text-align: center;
+        }
+        td {
+          background-color: rgb(238, 238, 238);
+          color: rgb(111, 111, 111);
+          padding: 20px 30px;
+        }
+      
+#heading
+{
+    font-weight:bold;
+    }
+
+#button{
+    /* background-image: url(https://flagflag.bg/image/cache/catalog/national/150х90-BG-600x315w.png);  */
+    background-size: cover;
+                color: black;
+                padding: 25px;
+                text-align: center;
+                cursor: pointer;
+} 
+/* a:hover {
+    background-color: red;
+  } */
